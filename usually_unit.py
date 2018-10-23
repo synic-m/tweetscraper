@@ -22,7 +22,7 @@ for mData in mDatas:
 str_data =('')
 #*************dataの整形************************************
 for x in data:
-    if x  != None and :
+    if x  != None:
     #loopの条件None　→　loopしない and 前の配列要素と同じならloopしない
         str_data += x
         str_data += '\n'
