@@ -2,7 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 
 #url取得
-target_url = 'https://twitter.com/aobaaoba_888?lang=ja'
+target_url = ''#ここにurl
 key = 1
 str_data_ar = 'nope'
 while(key == 1):
